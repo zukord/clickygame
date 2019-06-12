@@ -1,0 +1,31 @@
+.imgStyle {
+    height: 200px;
+    width: 200px;
+  }
+  
+.navCounter {
+    margin: 0 auto;
+    float: none;
+    position: absolute;
+    right: 10px;
+  }
+
+.counterStyle {
+    margin: 0 auto;
+  }
+   
+.rowStyle {
+    height: 300px;
+    width: 100%;
+  }
+
+.centerText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.colStyle {
+    height: 300px;
+    width: 300px;
+  }
